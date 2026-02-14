@@ -1,0 +1,20 @@
+{
+  "title": "NOAA Significant US Storms (1950-2025)",
+  "id": "lucassteuber/noaa-significant-us-storms",
+  "licenses": [{"name": "CC0-1.0"}],
+  "subtitle": "14,770 major tornadoes, hurricanes, and fatal weather events (1950-2025)",
+  "description": "Curated subset of NOAA Storm Events database - 98.8% reduction from 1.23 million records to focus on significant events: F3/EF3+ tornadoes, Category 3+ hurricanes, fatal events, and storms with $1M+ damage.",
+  "isPrivate": false,
+  "keywords": [
+    "weather",
+    "storms",
+    "tornadoes",
+    "hurricanes",
+    "natural-disasters",
+    "noaa",
+    "geospatial",
+    "united-states",
+    "climate",
+    "meteorology"
+  ]
+}
