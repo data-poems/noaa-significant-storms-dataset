@@ -131,9 +131,7 @@ fatal = df[df['fatalities'] > 0]
 
 ## Source & License
 
-**Public Domain** - U.S. Government Work
-
-Data from NOAA National Centers for Environmental Information (NCEI).
+Public Domain -- U.S. Government Work. Data from NOAA National Centers for Environmental Information (NCEI).
 
 ## Distribution
 
