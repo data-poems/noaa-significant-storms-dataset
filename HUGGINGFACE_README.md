@@ -55,6 +55,12 @@ with open('data.json') as f:
 }
 ```
 
+
+## Distribution
+
+- **GitHub**: [lukeslp/noaa-significant-storms](https://github.com/lukeslp/noaa-significant-storms)
+- **Kaggle**: [lucassteuber/noaa-significant-storms](https://www.kaggle.com/datasets/lucassteuber/noaa-significant-storms)
+
 ## Author
 
 **Luke Steuber**
