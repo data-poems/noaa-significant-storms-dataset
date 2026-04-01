@@ -28,7 +28,7 @@ Curated subset of NOAA Storm Events database - 98.8% reduction from 1.23 million
 
 ## Dataset Structure
 
-[Check the demo notebook for data exploration examples]
+See `demo_notebook.ipynb` for data exploration examples.
 
 ## Usage
 
